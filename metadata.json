@@ -1,0 +1,6 @@
+{
+  "name": "CRO Experiment Studio",
+  "description": "Real-time CRO preview and injection studio for testing custom CSS, JS, and HTML variants on any webpage, with client experiment management and snippet library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
